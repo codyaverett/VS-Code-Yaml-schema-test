@@ -1,0 +1,13 @@
+{
+    // "json.schemas": [
+    //     {
+    //         "fileMatch": [
+    //             "/*.concord.yml"
+    //         ],
+    //         "url": "./schema.json"
+    //     }
+    // ]
+    "yaml.schemas": {
+        "./schema.json": "my.yml"
+    }
+}
